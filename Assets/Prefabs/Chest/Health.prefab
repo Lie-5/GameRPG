@@ -73,7 +73,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1729274800, guid: 47d8a91e3026e405a96bac590c863934, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 875945ab7d7f4604ba6ac9946ffebfe8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -136,13 +136,7 @@ MonoBehaviour:
   saOffsetMax: 0.3
   juiciness: 3
   lerpTime: 0.6
-  storeInInventory: 1
   magnetic: 0
-  collectedAudio:
-    clip: {fileID: 0}
-    volume: 0
-    pitchMin: 0
-    pitchMax: 0
   healAmount: 50
 --- !u!58 &7073673841541597642
 CircleCollider2D:

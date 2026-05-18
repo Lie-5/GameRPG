@@ -271,6 +271,7 @@ MonoBehaviour:
   buyColor: {r: 0.8509804, g: 0.1764706, b: 0.14117648, a: 1}
   startingAbilitiesParent: {fileID: 6366560533208475805}
   startingAbilityContainerPrefab: {fileID: 2235193238144475043, guid: 57df64eedaeab412fbfa5924ca8c2ffc, type: 3}
+  startingAbilitiesRectSize: {x: 365, y: 85}
   references:
     version: 2
     RefIds: []
