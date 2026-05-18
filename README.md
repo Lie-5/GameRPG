@@ -5,33 +5,42 @@
   </kbd>
 </p>
 
-## About
-A Vampire Survivors inspired mobile game built from scratch in Unity.
+# Giới thiệu
 
-### Features
-- 20+ upgradeable weapons and abilities
-- 4 unique enemy types and 2 bosses
-- Level up system
-- Object pools for monsters, projectiles, items, chests, damage text, etc.
-- Infinite background shader
-- Mobile and PC input support
-- Enemy spawn chance/rate keyframe system
-- ScriptableObjects for straightforward character and level design
-- English/简体中文/繁體中文 localization
+Một tựa game mobile lấy cảm hứng từ Vampire Survivors, được xây dựng hoàn toàn từ đầu bằng Unity.
 
-## How to Play
-1. Download this repository
-2. Open in Unity 2021.3 or later
-3. Proceed to the `Main` scene in the `Assets/Scenes/Game` folder
-4. Press play
+### Tính năng
 
-### Controls
-- **Move**: Left Joystick/WASD/Arrow Keys
-- **Use items**: Right DPad/ZXCV/1234
+* Hơn 20 loại vũ khí và kỹ năng có thể nâng cấp
+* 4 loại kẻ địch riêng biệt và 2 boss
+* Hệ thống lên cấp
+* Sử dụng Object Pool cho quái vật, đạn, vật phẩm, rương, chữ hiển thị sát thương,...
+* Shader background vô hạn
+* Hỗ trợ điều khiển trên cả mobile và PC
+* Hệ thống keyframe điều chỉnh tỉ lệ/tốc độ spawn quái
+* Sử dụng ScriptableObjects giúp thiết kế nhân vật và màn chơi dễ dàng hơn
+* Hỗ trợ đa ngôn ngữ: English / 简体中文 / 繁體中文
+
+## Cách chơi
+
+1. Tải repository này về
+2. Mở bằng Unity 2021.3 trở lên
+3. Truy cập scene `Main` trong thư mục `Assets/Scenes/Game`
+4. Nhấn Play để chạy game
+
+### Điều khiển
+
+* **Di chuyển**: Joystick trái / WASD / Phím mũi tên
+* **Sử dụng vật phẩm**: DPad phải / ZXCV / 1234
 
 ## Credit
-### Art
-- [Kenney](https://www.kenney.nl/assets)
-- [Bonsaiheldin](https://opengameart.org/content/gold-treasure-icons-16x16)
-### Fonts
-- [Noto Sans CJK TC](https://fonts.google.com/noto/specimen/Noto+Sans+TC/about)
+
+### Hình ảnh
+
+* Kenney
+* Bonsaiheldin
+
+### Font chữ
+
+* Noto Sans CJK TC
+
