@@ -19,19 +19,20 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 21259870208
-    m_Localized: Boomerang
+    m_Localized: "B\xF4m M\xEA R\u0103ng"
     m_Metadata:
       m_Items: []
   - m_Id: 193561878528
-    m_Localized: Boomerang attack
+    m_Localized: "n\xE9m n\xF3 v\xF2ng \u0111i v\xF2ng l\u1EA1i nh\u01B0 l\xF2 vi
+      s\xF3ng"
     m_Metadata:
       m_Items: []
   - m_Id: 702691663872
-    m_Localized: Lightsword
+    m_Localized: "Ki\u1EBFm \xC1nh S\xE1ng"
     m_Metadata:
       m_Items: []
   - m_Id: 847437094912
-    m_Localized: Boomerang attack
+    m_Localized: "Ch\xE9m ch\u1EADm h\u01A1n \xE1nh s\xE1ng"
     m_Metadata:
       m_Items: []
   - m_Id: 1050382688256
@@ -39,47 +40,48 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1150563639296
-    m_Localized: Boomerang attack
+    m_Localized: "1 thanh m\xE3 t\u1EA5u c\u1EF1c m\u1EA1nh r\u1EF1a nh\u01B0ng m\xE0
+      b\u1EA3n n\xE2ng c\u1EA5p"
     m_Metadata:
       m_Items: []
   - m_Id: 1425428963328
-    m_Localized: Lifesteal
+    m_Localized: "H\xFAt M\xE1u"
     m_Metadata:
       m_Items: []
   - m_Id: 1544433950720
-    m_Localized: Chance to gain health on dealing damage
+    m_Localized: "Ma c\xE0 r\u1ED3ng b\u1EA3n shopee"
     m_Metadata:
       m_Items: []
   - m_Id: 2346053525504
-    m_Localized: Recover health over time
+    m_Localized: "H\u1ED3i Ph\u1EE5c m\xE1u ngay l\u1EADp t\u1EE9c"
     m_Metadata:
       m_Items: []
   - m_Id: 2330958225408
-    m_Localized: Recovery
+    m_Localized: "H\u1ED3i Ph\u1EE5c"
     m_Metadata:
       m_Items: []
   - m_Id: 3436413181952
-    m_Localized: Bat
+    m_Localized: "1 Con D\u01A1i"
     m_Metadata:
       m_Items: []
   - m_Id: 3524413874176
-    m_Localized: Close-range knockback attack
+    m_Localized: "1 \u0110\xF2n T\u1EA5n C\xF4ng G\u1EA7n G\xE2y Cho\xE1ng"
     m_Metadata:
       m_Items: []
   - m_Id: 4023905148928
-    m_Localized: Dagger
+    m_Localized: "Dao G\u0103m"
     m_Metadata:
       m_Items: []
   - m_Id: 4033036148736
-    m_Localized: Close-range bleed attack
+    m_Localized: "Dao nh\u1ECF ch\xE9m g\u1EA7n g\xE2y ch\u1EA3y m\xE1u"
     m_Metadata:
       m_Items: []
   - m_Id: 4334879236096
-    m_Localized: Sword
+    m_Localized: "Ki\u1EBFm"
     m_Metadata:
       m_Items: []
   - m_Id: 4351253798912
-    m_Localized: Only attacks to the left and right
+    m_Localized: "ch\u1EC9 ch\xE9m b\xEAn ph\u1EA3i v\xE0 b\xEAn tr\xE1i"
     m_Metadata:
       m_Items: []
   - m_Id: 4967288004608
@@ -91,71 +93,72 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5393987133440
-    m_Localized: AK-47
+    m_Localized: "S\xFAng Tr\u01B0\u1EDDng Ak-47"
     m_Metadata:
       m_Items: []
   - m_Id: 5398001082368
-    m_Localized: Fast-firing low-damage attack
+    m_Localized: "S\xFAng Tr\u01B0\u1EDDng Ak47"
     m_Metadata:
       m_Items: []
   - m_Id: 6604362604544
-    m_Localized: Thrown in quick succession
+    m_Localized: "N\xE9m phi ti\xEAu li\xEAn t\u1EE5c"
     m_Metadata:
       m_Items: []
   - m_Id: 6587841241088
-    m_Localized: Shuriken
+    m_Localized: "Phi Ti\xEAu"
     m_Metadata:
       m_Items: []
   - m_Id: 7050871431168
-    m_Localized: Axe
+    m_Localized: "R\xECu S\u1EAFt"
     m_Metadata:
       m_Items: []
   - m_Id: 7053991993344
-    m_Localized: Orbits the player
+    m_Localized: "R\xECu l\u1EA5y t\u1EEB c\xE2u chuy\u1EC7n c\u1ED5 t\xEDch \"3
+      c\xE2y r\xECu\""
     m_Metadata:
       m_Items: []
   - m_Id: 7868966232064
-    m_Localized: Grenade
+    m_Localized: "L\u1EF1u \u0110\u1EA1n"
     m_Metadata:
       m_Items: []
   - m_Id: 7889975500800
-    m_Localized: Explodes in all directions
+    m_Localized: "N\xE9m 1 ph\xE1t l\xE0 n\u1ED5 c\xE1i B\xD9M!!"
     m_Metadata:
       m_Items: []
   - m_Id: 7910674391040
-    m_Localized: Molotov
+    m_Localized: "Bom  X\u0103ng"
     m_Metadata:
       m_Items: []
   - m_Id: 7923844505600
-    m_Localized: Creates pools of fire on the ground
+    m_Localized: "T\u1EA1o ra 1 v\xF9ng l\u1EEDa nh\u1ECF \u0111\u1EC3 thi\xEAu"
     m_Metadata:
       m_Items: []
   - m_Id: 11456790650880
-    m_Localized: AOE+
+    m_Localized: "N\xE2ng C\u1EA5p AOE"
     m_Metadata:
       m_Items: []
   - m_Id: 11462826254336
-    m_Localized: Increased AOE
+    m_Localized: "S\xE1t Th\u01B0\u01A1ng AOE "
     m_Metadata:
       m_Items: []
   - m_Id: 17051954438144
-    m_Localized: Armor+
+    m_Localized: "\xC1o gi\xE1p"
     m_Metadata:
       m_Items: []
   - m_Id: 17059760037888
-    m_Localized: Flat damage reduction
+    m_Localized: "\xC1o gi\xE1p \u0111\u1EE1 \u0111\xF2n h\u01A1n l\u1ED1p tr\u01B0\u1EDFng"
     m_Metadata:
       m_Items: []
   - m_Id: 27185514536960
-    m_Localized: Cooldown+
+    m_Localized: "Gi\u1EA3m th\u1EDDi gian"
     m_Metadata:
       m_Items: []
   - m_Id: 27191411728384
-    m_Localized: Decreased attack cooldown
+    m_Localized: "Gi\u1EA3m th\u1EDDi gian t\u1EA5n c\xF4ng c\xE1c k\u0129 n\u0103ng "
     m_Metadata:
       m_Items: []
   - m_Id: 28001675763712
-    m_Localized: Damage+
+    m_Localized: "T\u0103ng Dame v\u0169 Kh\xED"
     m_Metadata:
       m_Items: []
   - m_Id: 28005144453120
@@ -163,35 +166,35 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 28807695163392
-    m_Localized: Speed+
+    m_Localized: "Ch\u1EA1y Nhanh H\u01A1n"
     m_Metadata:
       m_Items: []
   - m_Id: 28814192140288
-    m_Localized: Increased movement speed
+    m_Localized: "Ch\u1EA1y nhanh nh\u01B0 Jack b\u1ECF con"
     m_Metadata:
       m_Items: []
   - m_Id: 29846494240768
-    m_Localized: Knockback+
+    m_Localized: "T\u0103ng kh\u1EA3 n\u0103ng cho\xE1ng"
     m_Metadata:
       m_Items: []
   - m_Id: 29946226401280
-    m_Localized: Increased knockback
+    m_Localized: "Cho\xE1ng Cho\xE1ng Cho\xE1nggggg!!!!"
     m_Metadata:
       m_Items: []
   - m_Id: 30472754159616
-    m_Localized: Projectiles+
+    m_Localized: "N\xE2ng c\u1EA5p s\u1ED1 l\u01B0\u1EE3ng c\u1EA7m theo"
     m_Metadata:
       m_Items: []
   - m_Id: 30477896376320
-    m_Localized: Increased projectile count
+    m_Localized: "N\xE2ng c\u1EA5p s\u1ED1 l\u01B0\u1EE3ng v\u0169 kh\xED c\u1EA7m"
     m_Metadata:
       m_Items: []
   - m_Id: 30488721874944
-    m_Localized: Projectile Speed+
+    m_Localized: "N\xE2ng c\u1EA5p t\u1ED1c \u0111\u1ED9 v\u0169 kh\xED"
     m_Metadata:
       m_Items: []
   - m_Id: 30492345753600
-    m_Localized: Increased projectile speed
+    m_Localized: "B\u1EAFn nh\u01B0  1 kh\u1EA9u AK , RATATATATA!!!"
     m_Metadata:
       m_Items: []
   - m_Id: 64544616472576

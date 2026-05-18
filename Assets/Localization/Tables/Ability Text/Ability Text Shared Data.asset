@@ -16,7 +16,7 @@ MonoBehaviour:
   m_TableCollectionNameGuidString: 7293f9ffd63774eb1b5120a3e14cb7f5
   m_Entries:
   - m_Id: 21259870208
-    m_Key: Boomerang
+    m_Key: "b\xF4m me r\u0103ng"
     m_Metadata:
       m_Items: []
   - m_Id: 193561878528
@@ -24,7 +24,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 702691663872
-    m_Key: Lightsword
+    m_Key: "Ki\u1EBFm \xE1nh s\xE1ng"
     m_Metadata:
       m_Items: []
   - m_Id: 847437094912
@@ -32,7 +32,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1050382688256
-    m_Key: Machete
+    m_Key: "M\xE3 T\u1EA5u"
     m_Metadata:
       m_Items: []
   - m_Id: 1150563639296
@@ -40,23 +40,23 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1425428963328
-    m_Key: Lifesteal
+    m_Key: "H\xFAt m\xE1u"
     m_Metadata:
       m_Items: []
   - m_Id: 1544433950720
-    m_Key: Lifesteal Description
+    m_Key: "Ma c\xE0 r\u1ED3ng b\u1EA3n shopee"
     m_Metadata:
       m_Items: []
   - m_Id: 2330958225408
-    m_Key: Recovery
+    m_Key: "H\u1ED3i Ph\u1EE5c"
     m_Metadata:
       m_Items: []
   - m_Id: 2346053525504
-    m_Key: Recovery Description
+    m_Key: "H\u1ED3i Ph\u1EE5c m\xE1u ngay l\u1EADp t\u1EE9c"
     m_Metadata:
       m_Items: []
   - m_Id: 3436413181952
-    m_Key: Bat
+    m_Key: "Phi Ti\xEAu D\u01A1i"
     m_Metadata:
       m_Items: []
   - m_Id: 3524413874176
@@ -96,19 +96,20 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 6587841241088
-    m_Key: Shuriken
+    m_Key: "Phi Ti\xEAu"
     m_Metadata:
       m_Items: []
   - m_Id: 6604362604544
-    m_Key: Shuriken Description
+    m_Key: "N\xE9m phi ti\xEAu li\xEAn t\u1EE5c"
     m_Metadata:
       m_Items: []
   - m_Id: 7050871431168
-    m_Key: Axe
+    m_Key: "R\xECu s\u1EAFt"
     m_Metadata:
       m_Items: []
   - m_Id: 7053991993344
-    m_Key: Axe Description
+    m_Key: "R\xECu l\u1EA5y t\u1EEB c\xE2u chuy\u1EC7n c\u1ED5 t\xEDch \"3 c\xE2y
+      r\xECu\""
     m_Metadata:
       m_Items: []
   - m_Id: 7868966232064
@@ -120,7 +121,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7910674391040
-    m_Key: Molotov
+    m_Key: "Bom X\u0103ng"
     m_Metadata:
       m_Items: []
   - m_Id: 7923844505600
@@ -136,7 +137,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 17051954438144
-    m_Key: Armor Upgrade
+    m_Key: "N\xE2ng c\u1EA5p \xE1o gi\xE1p"
     m_Metadata:
       m_Items: []
   - m_Id: 17059760037888
@@ -144,7 +145,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 27185514536960
-    m_Key: Cooldown Upgrade
+    m_Key: "Gi\u1EA3m th\u1EDDi gian "
     m_Metadata:
       m_Items: []
   - m_Id: 27191411728384
@@ -152,43 +153,43 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 28001675763712
-    m_Key: Attack Damage Upgrade
+    m_Key: "T\u0103ng Dame V\u0169 Kh\xED"
     m_Metadata:
       m_Items: []
   - m_Id: 28005144453120
-    m_Key: Attack Damage Upgrade Description
+    m_Key: "Dame s\u1EBD t\u0103ng nhi\u1EC1u h\u01A1n "
     m_Metadata:
       m_Items: []
   - m_Id: 28807695163392
-    m_Key: Speed Upgrade
+    m_Key: "Ch\u1EA1y Nhanh H\u01A1n"
     m_Metadata:
       m_Items: []
   - m_Id: 28814192140288
-    m_Key: Speed Upgrade Description
+    m_Key: "Ch\u1EA1y nhanh nh\u01B0 Jack b\u1ECF con"
     m_Metadata:
       m_Items: []
   - m_Id: 29846494240768
-    m_Key: Knockback Upgrade
+    m_Key: "T\u0103ng kh\u1EA3 n\u0103ng cho\xE1ng"
     m_Metadata:
       m_Items: []
   - m_Id: 29946226401280
-    m_Key: Knockback Upgrade Description
+    m_Key: "Cho\xE1ng Cho\xE1ng Cho\xE1nggggg!!!!"
     m_Metadata:
       m_Items: []
   - m_Id: 30472754159616
-    m_Key: Projectile Count Upgrade
+    m_Key: "N\xE2ng c\u1EA5p s\u1ED1 l\u01B0\u1EE3ng c\u1EA7m theo"
     m_Metadata:
       m_Items: []
   - m_Id: 30477896376320
-    m_Key: Projectile Count Upgrade Description
+    m_Key: "N\xE2ng c\u1EA5p s\u1ED1 l\u01B0\u1EE3ng v\u0169 kh\xED c\u1EA7m"
     m_Metadata:
       m_Items: []
   - m_Id: 30488721874944
-    m_Key: Projectile Speed Upgrade
+    m_Key: "N\xE2ng c\u1EA5p t\u1ED1c \u0111\u1ED9 v\u0169 kh\xED"
     m_Metadata:
       m_Items: []
   - m_Id: 30492345753600
-    m_Key: Projectile Speed Upgrade Description
+    m_Key: "B\u1EAFn nh\u01B0  1 kh\u1EA9u AK , RATATATATA!!!"
     m_Metadata:
       m_Items: []
   - m_Id: 64544616472576
