@@ -19,27 +19,27 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 14012112896
-    m_Localized: Ability Selection
+    m_Localized: "Ch\u1ECDn K\u0129 N\u0103ng"
     m_Metadata:
       m_Items: []
   - m_Id: 1708468985856
-    m_Localized: Main Menu
+    m_Localized: "Trang Ch\u1EE7"
     m_Metadata:
       m_Items: []
   - m_Id: 47161919135744
-    m_Localized: Select
+    m_Localized: "Ch\u1ECDn"
     m_Metadata:
       m_Items: []
   - m_Id: 344185872834560
-    m_Localized: Level Complete!
+    m_Localized: "L\xEAn C\u1EA5p"
     m_Metadata:
       m_Items: []
   - m_Id: 344416857350144
-    m_Localized: Game Over
+    m_Localized: "Thua R\u1ED3i :(("
     m_Metadata:
       m_Items: []
   - m_Id: 345211782815744
-    m_Localized: Try Again
+    m_Localized: "Th\u1EED L\u1EA1i :D"
     m_Metadata:
       m_Items: []
   references:

@@ -19,31 +19,31 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 54847856640
-    m_Localized: Health
+    m_Localized: "M\xE1u"
     m_Metadata:
       m_Items: []
   - m_Id: 68219297792
-    m_Localized: Speed
+    m_Localized: "T\u1ED1c \u0110\u1ED9"
     m_Metadata:
       m_Items: []
   - m_Id: 123168874496
-    m_Localized: Armor
+    m_Localized: "Gi\xE1p"
     m_Metadata:
       m_Items: []
   - m_Id: 142525587456
-    m_Localized: Starting Abilities
+    m_Localized: "V\u0169 Kh\xED B\u1EAFt \u0110\u1EA7u"
     m_Metadata:
       m_Items: []
   - m_Id: 8946122219520
-    m_Localized: Luck
+    m_Localized: "May M\u1EAFn"
     m_Metadata:
       m_Items: []
   - m_Id: 279166384594944
-    m_Localized: Buy
+    m_Localized: Mua
     m_Metadata:
       m_Items: []
   - m_Id: 286365571866624
-    m_Localized: Select
+    m_Localized: "Ch\u1ECDn"
     m_Metadata:
       m_Items: []
   references:

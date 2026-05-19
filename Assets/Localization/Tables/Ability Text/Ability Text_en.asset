@@ -61,7 +61,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3436413181952
-    m_Localized: "1 Con D\u01A1i"
+    m_Localized: "Ki\u1EBFm \"L\u1EA1\""
     m_Metadata:
       m_Items: []
   - m_Id: 3524413874176
@@ -89,7 +89,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 4999026302976
-    m_Localized: Long-range AOE attack
+    m_Localized: "C\u1EA7n thi\u1EBFt \u0111\u1EC3 qu\xE9t s\u1EA1ch 1 l\u01B0\u1EE3ng
+      l\u1EDBn k\u1EBB \u0111\u1ECBch"
     m_Metadata:
       m_Items: []
   - m_Id: 5393987133440
@@ -162,7 +163,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 28005144453120
-    m_Localized: Increased attack damage
+    m_Localized: "T\u0103ng S\xE1t Th\u01B0\u01A1ng L\xEAn Qu\xE1i"
     m_Metadata:
       m_Items: []
   - m_Id: 28807695163392
@@ -174,7 +175,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 29846494240768
-    m_Localized: "T\u0103ng kh\u1EA3 n\u0103ng cho\xE1ng"
+    m_Localized: "T\u0103ng kh\u1EA3 n\u0103ng \u0110\u1EA9y L\xF9i"
     m_Metadata:
       m_Items: []
   - m_Id: 29946226401280
@@ -198,7 +199,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 64544616472576
-    m_Localized: Upgrade
+    m_Localized: "N\xE2ng C\u1EA5p"
     m_Metadata:
       m_Items: []
   references:

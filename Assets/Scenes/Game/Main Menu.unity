@@ -344,7 +344,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 240838771}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: df41319f48e8c4bacb4e84860efcdb40, type: 3}
   m_Name: 
@@ -2957,6 +2957,22 @@ PrefabInstance:
     - target: {fileID: 4785135395341393465, guid: 719d2a3e9222c41098418ff013c647ab, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785135396374003060, guid: 719d2a3e9222c41098418ff013c647ab, type: 3}
+      propertyPath: m_text
+      value: Option A
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785135396374003060, guid: 719d2a3e9222c41098418ff013c647ab, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785135396374003060, guid: 719d2a3e9222c41098418ff013c647ab, type: 3}
+      propertyPath: m_fontSize
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 4785135396374003060, guid: 719d2a3e9222c41098418ff013c647ab, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 4785135396870374228, guid: 719d2a3e9222c41098418ff013c647ab, type: 3}
       propertyPath: m_Name
